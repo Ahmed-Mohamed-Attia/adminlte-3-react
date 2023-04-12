@@ -16,7 +16,7 @@ export const StyledDropdown = styled(PfDropdown)`
   --pf-dropdown-menu-margin-top: 0px;
 
   .menu {
-    background-color: #454d55;
+    background-color: #1f599d;
   }
 
   .dropdown-item {
